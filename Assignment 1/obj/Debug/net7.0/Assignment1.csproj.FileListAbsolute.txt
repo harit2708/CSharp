@@ -1,0 +1,15 @@
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\bin\Debug\net7.0\Assignment1.exe
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\bin\Debug\net7.0\Assignment1.deps.json
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\bin\Debug\net7.0\Assignment1.runtimeconfig.json
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\bin\Debug\net7.0\Assignment1.dll
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\bin\Debug\net7.0\Assignment1.pdb
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\obj\Debug\net7.0\Assignment1.csproj.AssemblyReference.cache
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\obj\Debug\net7.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\obj\Debug\net7.0\Assignment1.AssemblyInfoInputs.cache
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\obj\Debug\net7.0\Assignment1.AssemblyInfo.cs
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\obj\Debug\net7.0\Assignment1.csproj.CoreCompileInputs.cache
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\obj\Debug\net7.0\Assignment1.dll
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\obj\Debug\net7.0\refint\Assignment1.dll
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\obj\Debug\net7.0\Assignment1.pdb
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\obj\Debug\net7.0\Assignment1.genruntimeconfig.cache
+G:\ASSIGNMENT\SOFTWARE DEVELOPMENT\Assignment1\obj\Debug\net7.0\ref\Assignment1.dll
